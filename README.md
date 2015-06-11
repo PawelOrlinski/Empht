@@ -3,11 +3,11 @@
 
 ###### Instrukcja:
 
-1. Pobrać zawartość repozytorium poleceniem:
+1. Uruchomić terminal i przejść do wybranego katalogu. Pobrać zawartość repozytorium poleceniem:
 
-    `git checkout`
+    `git clone git@github.com:PawelOrlinski/Empht`
     
-2. Otworzyć sesję R i ustawić katalog roboczy w miejscu pobranego repozytorium
+2. Spowoduje to pobranie katalogu `Empht`, w którym znajduje się przede wszystkim spakowany pakiet. Następnie otworzyć sesję R i ustawić katalog roboczy w miejscu pobranego repozytorium.
 
 3. Zainstalować pakiet poleceniem: 
 
@@ -17,4 +17,4 @@
 
     `library(empht)`
     
-5. Gotowe, można korzystać z funkcji empht(). Jej dokumentacja jest załączona w pobranym pakiecie.
+5. Gotowe! Teraz można korzystać z funkcji `empht()`. Jej dokumentacja jest załączona w pobranym pakiecie i można ją podejrzeć standardowym poleceniem R: `?empht`.
