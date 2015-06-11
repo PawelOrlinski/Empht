@@ -1,7 +1,7 @@
 # Empht
-## Pakiet R do aproksymacji rozkładami fazowymi przy użyciu algorytmu EM.
+#### Pakiet R do aproksymacji rozkładami fazowymi przy użyciu algorytmu EM.
 
-### Instrukcja:
+###### Instrukcja:
 
 1. Pobrać zawartość repozytorium poleceniem:
 
